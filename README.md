@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Steve's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/panningforbacon/panningforbacon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Right now, I'm just hosting draw.io here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are the components that run Jupyter notebook.
 
-### Markdown
+![Diagram](jupyter_notebook_architecture.svg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="http://panningforbacon.github.io/drawio-github/edit-diagram.html?repo=drawio-github&path=diagram.png" target="_blank">Edit</a> | <a href="https://www.draw.io/#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-github%2Fdiagram.png" target="_blank">Edit As New</a>
+
+Source: https://jupyter.readthedocs.io/en/latest/architecture/how_jupyter_ipython_work.html
+
+
+### Markdown Reference
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +32,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/panningforbacon/panningforbacon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
