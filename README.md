@@ -1,8 +1,9 @@
-## Welcome to Steve's GitHub Pages
+# Welcome to Steve's GitHub Pages
 
 Right now, I'm just hosting draw.io here.
 
-Here are the components that run Jupyter notebook.
+
+## Jupyter Notebook Architecture
 >Source: https://jupyter.readthedocs.io/en/latest/architecture/how_jupyter_ipython_work.html
 
 ![Diagram](jupyter_notebook_architecture.svg)
