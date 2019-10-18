@@ -1,6 +1,6 @@
-# Welcome to Steve's GitHub Pages
+# Welcome
 
-Right now, I'm just hosting draw.io here.
+Right now, I'm just hosting a few draw.io diagrams here.
 
 
 ## Jupyter Notebook Architecture
