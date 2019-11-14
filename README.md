@@ -41,15 +41,22 @@ This is useful in assignment statements.
 ```javascript
 person.meetup = person.meetup || defaults.meetup || 'YYCJS';
 ```
-### Value Equality vs Value-And-Type Equality
-* == or !=: Values but not types are equal
-* === or !==: Values and Types are equal
+### Equality
+* **Abstract** (double): checks if VALUES are equal
+* **Strict** (triple): checks if VALUES and TYPES are equal
 *Note: Objects are always compared by their reference.*
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#A_model_for_understanding_equality_comparisons
 
 ### Scope
-* var: Scoped within function. All else is global.
-* let: Scoped within block.
-* cost: Scoped within bock.
-*New javascript introduces new variable declaration statements for 
+* var: Allows function scope. All else is global.
+* let: Allows block scope.
+* cost: Allows block scope. Cannot be changed at runtime.
+* (without var/let/cost): 
+  * Browser: Global scope, added to 'window' object
+  * Node: Global scope, within a module
 
+### Closures
+...I still don't get it.
+
+###
 
