@@ -54,9 +54,3 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and
 * (without var/let/cost): 
   * Browser: Global scope, added to 'window' object
   * Node: Global scope, within a module
-
-### Closures
-...I still don't get it.
-
-###
-
